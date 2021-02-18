@@ -4,11 +4,8 @@ Juan tiene 23 años y nació en Argentina
 
 Experimento 1
 
-<<<<<<< HEAD
 Experimento 2
 
-=======
->>>>>>> 9ec3045 (Exp 1)
 Master 1
 
 Master 2
